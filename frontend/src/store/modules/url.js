@@ -209,7 +209,7 @@ const mutations = {
     state.tagPopover = val
   },
   SET_SID: (state, val) => {
-    state,sId = val
+    state.sId = val
   }
  }
 
